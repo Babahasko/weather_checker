@@ -1,8 +1,5 @@
 http  https://api.openweathermap.org/data/2.5/weather?lat=55.7"&"lon=37.5"&"appid=edfb48e38a62c2d1eb058533e3a17cea"&"lang=ru"&"units=metric
 http  https://api.openweathermap.org/data/2.5/weather?lat=55.7"&"lon=37.5"&"appid=edfb48e38a62c2d1eb058533e3a17cea
 
-http https://ipgeolocation.abstractapi.com/v1/?api_key=5dfc34c785e84393a2f39a1f42c12715
-https://app.abstractapi.com/api/ip-geolocation/tester
-https://stackoverflow.com/questions/36516183/what-should-i-use-to-open-a-url-instead-of-urlopen-in-urllib3
-https://github.com/genekogan/wifi_geolocation/blob/master/wifi_geolocation.py
-https://stackoverflow.com/questions/76542658/how-can-i-get-the-location-of-a-device-in-python
+https://ipgeolocation.abstractapi.com/v1/?api_key=5dfc34c785e84393a2f39a1f42c12715 # best_api to get coords
+
