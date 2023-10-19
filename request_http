@@ -1,5 +1,0 @@
-http  https://api.openweathermap.org/data/2.5/weather?lat=55.7"&"lon=37.5"&"appid=edfb48e38a62c2d1eb058533e3a17cea"&"lang=ru"&"units=metric
-http  https://api.openweathermap.org/data/2.5/weather?lat=55.7"&"lon=37.5"&"appid=edfb48e38a62c2d1eb058533e3a17cea
-
-https://ipgeolocation.abstractapi.com/v1/?api_key=5dfc34c785e84393a2f39a1f42c12715 # best_api to get coords
-
