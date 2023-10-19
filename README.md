@@ -12,7 +12,7 @@ to make over 10000000+ requests
 Using *ipinfo_api* we get the coords of the city, where we are locate. Then,
 we will use this coords with *openweather_api* to get the weather.
 <p align="center">
-<img src="./assets/Console_programm.png" width="80%"></p>
+<img src="./assets/Console_programm.jpg" width="80%"></p>
 
 ### Goals
 This project was planned to get a good sense of type hinting in python.
