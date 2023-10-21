@@ -1,7 +1,7 @@
 from typing import NamedTuple, Literal
 from exceptions import CantGetCoordinates
 import config
-import ipinfo
+import ipinfo  # type: ignore
 
 
 class Coordinates(NamedTuple):
